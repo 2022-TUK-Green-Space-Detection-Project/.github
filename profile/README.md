@@ -17,6 +17,8 @@ To collect the data, we captured images from Google Earth and collected a total 
 
 Additionally, to increase the size of the dataset, we augmented the data to a total of 3200 images.
 
+[Kaggle Link](https://www.kaggle.com/datasets/choemarco/green-space-dataset)
+
 ## Model
 
 * Model Architectur : VGGNET11
