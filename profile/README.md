@@ -65,4 +65,6 @@ Due to the lack of memory, we conducted transfer learning on the model three tim
 
 It showed an improved error than the 13.71% error suggested in the paper. However, it is a result that has not been sufficiently tested, so supplementation is required later.
 
+# Reference
 
+[합성곱 신경망을 이용한 구글 어스에서의 녹지 비율 측정](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202005653789633)
